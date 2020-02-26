@@ -1,0 +1,15 @@
+{
+    "version": "3.3.3",
+    "name": "uikit",
+    "title": "UIkit",
+    "package-type": "library",
+    "repository": "https://github.com/arikaim/uikit-library.git",
+    "help": "https://getuikit.com/docs/introduction",
+    "description": "A lightweight and modular front-end framework for developing fast and powerful web interfaces.",
+    "framework": true,
+    "files": [
+        "css/uikit.min.css",
+        "js/uikit.min.js",
+        "js/uikit-icons.min.js"
+    ]       
+}
