@@ -1,5 +1,5 @@
 {
-    "version": "3.3.3",
+    "version": "3.5.9",
     "name": "uikit",
     "title": "UIkit",
     "package-type": "library",
@@ -10,6 +10,18 @@
     "files": [
         "css/uikit.min.css",
         "js/uikit.min.js",
-        "js/uikit-icons.min.js"
-    ]       
+        "js/uikit-icons.min.js",
+        "uikit-form.js"
+    ],
+    "versions": {   
+        "form-source": {
+            "files": [
+                "uikit-form.js"   
+            ] 
+        },  
+        "form": {
+            "files": [               
+            ] 
+        }
+    }           
 }
